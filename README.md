@@ -22,7 +22,7 @@ Standard [![js-standard-style](https://img.shields.io/badge/code%20style-standar
 
 ```
 //Download Github repo
-$ git clone git@github.com:Telefonica/seed-golang.git "$GOPATH/src/github.com/Telefonica/seed-golang"
+$ git clone https://github.com/Sendhil-Vel/Go_Seed_Website
 
 //Run Website
 $ go run base_website.go
