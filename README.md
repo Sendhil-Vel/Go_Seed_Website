@@ -37,10 +37,10 @@ $ go run base_website.go
 ## Sample URL
 * assuming site is running locally at port 8081<br/>
 http://localhost:8081<br/>
-http://localhost:8081/test
-http://localhost:8081/user/
-http://localhost:8081/user/login
-http://localhost:8081/user/jsonresponse
+http://localhost:8081/test<br/>
+http://localhost:8081/user/<br/>
+http://localhost:8081/user/login<br/>
+http://localhost:8081/user/jsonresponse<br/>
 
 ## How to use?
 * .env is used to set environment variables. You can change 8081 to any port. May sure you have : before port no.
